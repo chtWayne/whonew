@@ -4,8 +4,8 @@
   const translation = {
     translation: {
       app: {
-        name: 'Bedrock Claude Chat',
-        nameWithoutClaude: 'Bedrock Chat',
+        name: 'Bedrock Chatot',
+        nameWithoutClaude: 'Bedrock Chatot',
         inputMessage: '請輸入訊息',
         starredBots: '我的最愛 Bots',
         recentlyUsedBots: '最近用過的 Bots',
@@ -15,7 +15,7 @@
       },
       bot: {
         label: {
-          myBots: '我的 Bots',
+          myBots: '我的聊天助理',
           recentlyUsedBots: '最近使用過的共用 Bots',
           knowledge: '知識',
           url: 'URL',
